@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "660185204509",
+    "project_id": "realtime-database-chat-887d1",
+    "storage_bucket": "realtime-database-chat-887d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660185204509:android:a709989f49898772c643f4",
+        "android_client_info": {
+          "package_name": "com.estholon.realtimedatabasechat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPttqvDuuJRMZw7FUovvTT4zhvD-03xJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660185204509:android:27b8207a6ac1148bc643f4",
+        "android_client_info": {
+          "package_name": "com.estholon.realtimedatabasechat.debug"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPttqvDuuJRMZw7FUovvTT4zhvD-03xJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
