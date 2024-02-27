@@ -70,7 +70,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         android:layout_margin="8dp"
-        android:text="@string/start_chat"
+        android:text="@string/start_chat"/>
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
